@@ -1,0 +1,19 @@
+{
+  "name": "sequelize_reference",
+  "version": "1.0.0",
+  "description": "Reference project for sequelize ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshB77/Sequelize_reference.git"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshB77/Sequelize_reference/issues"
+  },
+  "homepage": "https://github.com/MaheshB77/Sequelize_reference#readme"
+}
